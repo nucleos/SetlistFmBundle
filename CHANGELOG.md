@@ -2,27 +2,28 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
-## 1.3.0 - TBD
+## 1.3.0 - 2024-08-14
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [1.3.0](https://github.com/nucleos/NucleosSetlistFmBundle/milestone/8)
 
-- Nothing.
+Feature release (minor)
 
-### Deprecated
+### 1.3.0
 
-- Nothing.
+- Total issues resolved: **0**
+- Total pull requests resolved: **2**
+- Total contributors: **2**
 
-### Removed
+#### Enhancement
 
-- Nothing.
+ - [483: Fix symfony deprecation](https://github.com/nucleos/NucleosSetlistFmBundle/pull/483) thanks to @core23
 
-### Fixed
+#### dependency
 
-- Nothing.
+ - [480: Update dependency psalm/plugin-phpunit to ^0.19.0](https://github.com/nucleos/NucleosSetlistFmBundle/pull/480) thanks to @renovate[bot]
 
 ## 1.2.0 - 2023-12-21
 
